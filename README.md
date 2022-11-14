@@ -1,6 +1,6 @@
 # flutter_relation_widget
 
-Drawing relation line between thow widget
+Drawing relation line between two widgets
 
 ## Getting Started
 
